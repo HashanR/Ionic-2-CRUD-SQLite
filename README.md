@@ -5,11 +5,9 @@ Ionic CLI and Cordova
 To create Ionic projects, you’ll need to install the latest version of the CLI and Cordova. Before you do that, you’ll need a recent version of Node.js. Download the installer for Node.js 6 or greater and then proceed to install the Ionic CLI and Cordova for native app development:
 
 $ npm install -g ionic cordova
+
 You may need to add “sudo” in front of these commands to install the utilities globally
 
-Once that’s done, create your first Ionic app:
-
-$ ionic start cutePuppyPics
 
 
 
